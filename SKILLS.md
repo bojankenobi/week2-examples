@@ -1,9 +1,9 @@
-# SKILLS — Agent Knowledge Index
+# O UkisAI Platformi
 
-This file is automatically loaded into the agent's system prompt.
-Each entry below describes a markdown file the agent has created and what it contains.
-When the agent creates a new file, it updates this index so it always knows what exists.
+UkisAI je inovativna platforma za razvoj veštačke inteligencije.
+Naše glavne usluge obuhvataju:
+- Kreiranje custom AI agenata za automatizaciju procesa.
+- Integracije LLM (Large Language Models) u postojeće sisteme.
+- Edukacija i akademija kroz napredne AI kurseve.
 
-## Files
-
-<!-- entries added automatically by create_note tool -->
+Naš cilj je da pomognemo korisnicima da kroz automatizaciju ubrzaju svoj rad.
